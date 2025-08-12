@@ -1,0 +1,86 @@
+.strictly-header{
+margin:3px;
+padding:3px;
+font-size:24px;
+font-family:Arial;
+}
+.nav-container{
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+.nav-container nav ul{
+display:flex;
+justify-content:space-between;
+gap:25px;
+}
+.hero{
+background : url("https://thumbs.dreamstime.com/b/fashion-clothes-concept-female-blouses-t-shirts-dresses-hanger-white-background-blog-website-social-media-158685437.jpg");
+display:flex;
+align-items:center;
+text-align:center;
+justify-content:center;
+height:600px;
+}
+.section{
+display:flex;
+text-align:center;
+align-items:center;
+justify-content:space-between;
+gap:200px;
+height:100vh;
+width:100vh;
+}
+.section1{
+display:flex;
+text-align:center;
+align-items:center;
+justify-content:center;
+gap:2px;
+height:100vh;
+}
+.collection{
+display:flex;
+text-align:center;
+align-items:center;
+justify-content:center;
+gap:2px;
+height:100vh;
+}
+.western{
+display:flex;
+text-align:center;
+align-items:center;
+justify-content:center;
+gap:2px;
+height:100vh;
+}
+.Suits {
+display:flex;
+text-align:center;
+align-items:center;
+justify-content:center;
+gap:2px;
+height:100vh;
+}
+.Saree ul{
+display:flex;
+text-align:center;
+align-items:center;
+justify-content:center;
+gap:2px;
+height:100vh;
+}
+.contact{
+display:flex;
+text-align:center;
+align-items:center;
+justify-content:center;
+gap:2px;
+height:100vh;
+}
+@media only screen and (orientation: landscape) {
+  body {
+    background-color: lightblue;
+  }
+}
